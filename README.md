@@ -294,7 +294,7 @@ This project demonstrates an end-to-end analytics workflow for solving operation
 
 ### Developed by:
 
-Your Name
+Aditya Raj
 
 ### Tools Used:
 
