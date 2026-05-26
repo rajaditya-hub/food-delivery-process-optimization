@@ -216,7 +216,7 @@ analysis_queries.sql
 
 # Key Business Insights
 
-### Traffic Impact
+### Traffic Impact 
 
 High traffic density significantly increases average delivery time, highlighting the importance of route optimization during peak hours.
 
@@ -241,18 +241,22 @@ Some cities experience consistently higher delivery delays, suggesting operation
 # Visual Outputs
 
 ## Traffic Impact Analysis
+![Traffic Impact](visuals/traffic_impact.png)
 
 * Identifies the relationship between traffic density and delivery performance.
 
 ## Weather Impact Analysis
+![Weather Conditions](visuals/weather_impact.png)
 
 * Evaluates how environmental conditions affect operational efficiency.
 
 ## Vehicle Performance Analysis
+![Vehicle Optimization](visuals/vehicle_performance.png)
 
 * Compares delivery efficiency across different vehicle types.
 
 ## Delivery Category Distribution
+![Delivery Category](visuals/delivery_category.png)
 
 * Categorizes deliveries into Fast, Moderate, and Delayed groups.
 
