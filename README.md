@@ -60,7 +60,7 @@ The goal of this project is to analyze delivery data and identify actionable ins
 
 # Project Structure
 
-```plaintext id="8j1t6k"
+```plaintext 
 food-delivery-process-optimization/
 │
 ├── data/
@@ -120,7 +120,7 @@ Performed preprocessing operations such as:
 
 ### File:
 
-```plaintext id="1z5c7m"
+```plaintext 
 data_cleaning.py
 ```
 
@@ -137,7 +137,7 @@ Created additional business features including:
 
 ### File:
 
-```plaintext id="4v9k2p"
+```plaintext 
 feature_engineering.py
 ```
 
@@ -149,7 +149,7 @@ Implemented geospatial calculations using the Haversine Formula to calculate del
 
 ### File:
 
-```plaintext id="9p3x7w"
+```plaintext
 distance_calculation.py
 ```
 
@@ -167,7 +167,7 @@ Performed operational analysis to identify:
 
 ### File:
 
-```plaintext id="2m6d8q"
+```plaintext
 eda_analysis.py
 ```
 
@@ -186,7 +186,7 @@ Generated visual insights using Matplotlib.
 
 ### File:
 
-```plaintext id="7k1r5n"
+```plaintext 
 visualization.py
 ```
 
@@ -208,7 +208,7 @@ The project includes SQL-based business KPI analysis using MySQL.
 
 ### SQL File:
 
-```plaintext id="6w2n9b"
+```plaintext 
 analysis_queries.sql
 ```
 
